@@ -42,7 +42,7 @@ I'm interested in how software works, from mathematical to hardware level.
 ## Tech Stack & Learning Path
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,cpp,java,linux,bash,git,docker&perline=5" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=python,rust,cpp,java,pytorch,sklearn,tensorflow,anaconda,androidstudio,linux,vscode,idea,bash,git,docker&perline=5" alt="Technologies" />
 </p>
 
 | Area | Current interests |
